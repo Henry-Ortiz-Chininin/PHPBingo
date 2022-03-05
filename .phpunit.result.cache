@@ -1,0 +1,1 @@
+{"version":1,"defects":{"Tests\\NumberTest::it_returns_error_when_number_out_of_range":4},"times":{"Tests\\NumberTest::it_returns_error_when_number_out_of_range":0.004}}
